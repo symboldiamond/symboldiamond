@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @symboldiamond
 - 👀 I’m interested in making music 
 - 🌱 I’m currently learning something
-- 😄 Pronouns: he/she/him/her
+- 😄 Pronouns: he/she/him/he
 
 <!---
 symboldiamond/symboldiamond is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
